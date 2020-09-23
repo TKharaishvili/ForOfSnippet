@@ -1,0 +1,5 @@
+﻿[$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
+"For Of Snippet"="$PackageFolder$\JS\ForOfSnippet"
+
+[$RootKey$\Languages\CodeExpansions\TypeScript\Paths]
+"For Of Snippet"="$PackageFolder$\TS\ForOfSnippet"

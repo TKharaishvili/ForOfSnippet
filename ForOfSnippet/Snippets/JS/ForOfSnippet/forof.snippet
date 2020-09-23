@@ -1,0 +1,29 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+    <Title>forof</Title>
+    <Author>Tornike Kharaishvili</Author>
+    <Shortcut>forof</Shortcut>
+    <Description>for...of loop</Description>
+    <SnippetTypes>
+      <SnippetType>Expansion</SnippetType>
+      <SnippetType>SurroundsWith</SnippetType>
+    </SnippetTypes>
+  </Header>
+  <Snippet>
+    <Declarations>
+      <Literal>
+        <ID>element</ID>
+        <ToolTip>Element</ToolTip>
+        <Default>element</Default>
+      </Literal>
+      <Literal>
+        <ID>iterable</ID>
+        <ToolTip>Array, String or some other collection object</ToolTip>
+        <Default>iterable</Default>
+      </Literal>
+    </Declarations>
+    <Code Language="JavaScript"><![CDATA[for (let $element$ of $iterable$) {
+    $selected$$end$
+}]]></Code>
+  </Snippet>
+</CodeSnippet>
