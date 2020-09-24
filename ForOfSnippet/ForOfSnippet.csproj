@@ -51,10 +51,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\TS\ForOfSnippet\forof.snippet">
+    <Content Include="Snippets\TS\For Of\forof.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\JS\ForOfSnippet\forof.snippet">
+    <Content Include="Snippets\JS\For Of\forof.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">

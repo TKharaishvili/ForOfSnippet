@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="ForOfSnippet.0f29c7ee-f9b6-4e17-ba62-fbe6cd264292" Version="1.0" Language="en-US" Publisher="Tornike Kharaishvili" />
+        <Identity Id="ForOfSnippet.0f29c7ee-f9b6-4e17-ba62-fbe6cd264292" Version="1.0.1" Language="en-US" Publisher="Tornike Kharaishvili" />
         <DisplayName>For Of Snippet</DisplayName>
         <Description xml:space="preserve">for...of loop snippet for JavaScript and TypeScript</Description>
     </Metadata>

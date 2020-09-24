@@ -1,5 +1,5 @@
 ﻿[$RootKey$\Languages\CodeExpansions\JavaScript\Paths]
-"For Of Snippet"="$PackageFolder$\JS\ForOfSnippet"
+"ForOf"="$PackageFolder$\JS\For Of"
 
 [$RootKey$\Languages\CodeExpansions\TypeScript\Paths]
-"For Of Snippet"="$PackageFolder$\TS\ForOfSnippet"
+"ForOf"="$PackageFolder$\TS\For Of"
