@@ -4,6 +4,8 @@
         <Identity Id="ForOfSnippet.0f29c7ee-f9b6-4e17-ba62-fbe6cd264292" Version="1.0.1" Language="en-US" Publisher="Tornike Kharaishvili" />
         <DisplayName>For Of Snippet</DisplayName>
         <Description xml:space="preserve">for...of loop snippet for JavaScript and TypeScript</Description>
+        <Icon>assets\logo.png</Icon>
+        <PreviewImage>assets\logo.png</PreviewImage>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />
